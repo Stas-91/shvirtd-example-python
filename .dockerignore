@@ -3,3 +3,4 @@
 
 # Исключаем нужные файлы и папки
 !main.py
+!requirements.txt
